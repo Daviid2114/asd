@@ -7,7 +7,6 @@ import pe.edu.upc.practica.dtos.AutorDTO;
 import pe.edu.upc.practica.entities.Autor;
 import pe.edu.upc.practica.servicesInterfaces.IAutorService;
 
-import java.util.List;
 import java.util.stream.Collectors;
 
 @RestController
